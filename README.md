@@ -44,7 +44,7 @@ Getting Started
 Create a database in your local MySQL instance:
 
 SQL
-CREATE DATABASE subsidy_db;
+"CREATE DATABASE subsidy_db";
 Update your connection credentials in backend/src/main/resources/application.properties:
 
 Properties
